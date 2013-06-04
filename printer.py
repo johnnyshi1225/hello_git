@@ -3,7 +3,7 @@ class printer:
         '''
         I'm a printer.
         '''
-        self.tag = 1
+        self.tag = 2
 
     def printSomething(self):
         print 'Something else that I really want to print.'
