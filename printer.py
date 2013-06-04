@@ -7,3 +7,4 @@ class printer:
 
     def printSomething(self):
         print 'Something else that I really want to print.'
+        print 'Print more...............................'
